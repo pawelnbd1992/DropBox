@@ -86,7 +86,7 @@ public class MainActivity extends ActionBarActivity implements View.OnClickListe
     }
 
 
-
+///akies
     @Override
     protected void onResume() {
         super.onResume();
